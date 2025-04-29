@@ -168,7 +168,7 @@ const Form = () => {
           <input type='text' placeholder='Jersey Club Rizz' onChange={nameChangeHandler} />
 
           <label>Description</label>
-          <input type='text' placeholder='It's Giving Energy' onChange={descriptionChangeHandler} />
+          <input type='text' placeholder='Giving Energy' onChange={descriptionChangeHandler} />
 
           <label>Your Website</label>
           <input type='text' placeholder='https://pinata.cloud' onChange={externalURLChangeHandler} />
